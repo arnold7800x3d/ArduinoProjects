@@ -8,7 +8,7 @@ The project is a simple program that mimics a real-world traffic light system.
 ~ 1 Pushbutton
 ~ 2 Red LEDs
 ~ 1 Yellow LED
-~ 2 Green LED
+~ 2 Green LEDs
 ~ 5 220k Ohms Resistors
 ~ 1 10k Ohms Resistor
 
