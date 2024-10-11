@@ -10,6 +10,7 @@ This is a simple pulse sensor project to detect heartbeats and display the heart
 - 1 LED
 - 1 Piezzo Buzzer
 - 2 220k Ohm resistors
+- 22 jumper wires ( 3 male-female for pulse sensor)
 - Breadboard
 
 ## Setup
