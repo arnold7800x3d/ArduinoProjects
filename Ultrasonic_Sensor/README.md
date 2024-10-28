@@ -17,7 +17,7 @@ Simple ultasonic sensor project to measure distances and display the distance be
 
 ## Working Principle of the Ultrasonic Sensor
 
-The trug pin acts as the transmitter. It sends a high frequency sound which reflects from an object and the echo pin receives the signal. The distance is then calculated from the time between the transmission and reception of the sigbal since the velocity of sound in air is a known value.
+The trig pin acts as the transmitter. It sends a high frequency sound which reflects from an object and the echo pin receives the signal. The distance is then calculated from the time between the transmission and reception of the sigbal since the velocity of sound in air is a known value.
 
 ## Setup 
 
